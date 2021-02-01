@@ -1,7 +1,7 @@
 # GSDL
 General Downloader
 
-Coming soon on January 2021.
+Coming soon on February 2021. (Have to postpone because of bugs)
 
 Requires a unix-like shell.
 
